@@ -7,3 +7,6 @@
 * windows = chromdriverWin32.exe
 * to set driver(choices above) just adjust TmySeleniumDriver.py line 17
 * to run driver on anything but localhost:5000 change line 16
+
+## to add 
+* pip install -r requirements.txt
